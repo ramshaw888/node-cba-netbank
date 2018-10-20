@@ -51,7 +51,7 @@ cscope.po.out
 ### Project Specified ###
 
 .coveralls.yml*
-dist/
+#dist/
 log/
 docs/
 .vscode/
